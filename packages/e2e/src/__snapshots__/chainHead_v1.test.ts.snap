@@ -1,0 +1,73 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`chainHead_v1 rpc > reports the chain state 1`] = `
+{
+  "finalizedBlockHashes": [
+    "0x0df086f32a9c3399f7fa158d3d77a1790830bd309134c5853718141c969299c7",
+  ],
+  "finalizedBlockRuntime": {
+    "apis": [
+      [
+        "0xdf6acb689907609b",
+        4,
+      ],
+      [
+        "0x37e397fc7c91f5e4",
+        1,
+      ],
+      [
+        "0x40fe3ad401f8959a",
+        6,
+      ],
+      [
+        "0xd2bc9897eed08f15",
+        3,
+      ],
+      [
+        "0xf78b278be53f454c",
+        2,
+      ],
+      [
+        "0xdd718d5cc53262d4",
+        1,
+      ],
+      [
+        "0xab3c0572291feb8b",
+        1,
+      ],
+      [
+        "0xbc9d89904f5b923f",
+        1,
+      ],
+      [
+        "0x37c8bb1350a9a2a8",
+        2,
+      ],
+      [
+        "0x6ef953004ba30e59",
+        1,
+      ],
+      [
+        "0x955e168e0cfb3409",
+        1,
+      ],
+      [
+        "0xe3df3f2aa8a5cc57",
+        2,
+      ],
+      [
+        "0xea93e3f16f3d6962",
+        2,
+      ],
+    ],
+    "authoringVersion": 1,
+    "implName": "acala",
+    "implVersion": 0,
+    "specName": "acala",
+    "specVersion": 2170,
+    "stateVersion": 0,
+    "transactionVersion": 2,
+  },
+  "type": "initialized",
+}
+`;
